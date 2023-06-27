@@ -1,7 +1,7 @@
 # Hi there, I'm Tim 👋
 
-- 🔭 I’m currently working on My Portfolio Website
-- 👨‍💻 In my free time, I play Games and do competitive swimming
+- 🔭 I’m currently working on my portfolio website
+- 👨‍💻 In my free time, I play games and do competitive swimming
 - 🌱 I enjoy learning low-level technology
 
 ---
