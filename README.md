@@ -1,6 +1,6 @@
 # Hi there, I'm Tim 👋
 
-- 🔭 I’m currently working on my portfolio website
+- 🔭 I’m currently working on a searching SaaS
 - 👨‍💻 In my free time, I play games and do competitive swimming
 - 🌱 I enjoy learning low-level technology
 
