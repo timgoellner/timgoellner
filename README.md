@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a searching SaaS
 - 👨‍💻 In my free time, I play games and do competitive swimming
-- 🌱 I enjoy learning low-level technology
+- 🌱 I love learning low-level technology
 
 ---
 
