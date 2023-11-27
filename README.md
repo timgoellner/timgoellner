@@ -1,7 +1,7 @@
 # Hi there, I'm Tim 👋
 
-- 🔭 I’m currently working on a searching SaaS
-- 👨‍💻 In my free time, I play games and do competitive swimming
+- 🔭 I am currently working on a searching SaaS
+- 👨‍💻 In my spare time I play games and do competitive swimming
 - 🌱 I love learning low-level technology
 
 ---
